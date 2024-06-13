@@ -1,7 +1,7 @@
 const LazyComponent = () => {
   return (
     <div>
-      <h1>This is a lazy-loaded component!</h1>
+      <h3>This is a lazy-loaded component!</h3>
     </div>
   );
 };
